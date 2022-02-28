@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7F1E5a01D452eA0224B05840c78624EfD5bCb981",
+  "SCAN_LINK": "https://songbird-explorer.flare.network/token/0x7F1E5a01D452eA0224B05840c78624EfD5bCb981/token-transfers",
+  "NETWORK": {
+    "NAME": "Songbird",
+    "SYMBOL": "SGB",
+    "ID": 19
+  },
+  "NFT_NAME": "The XRBee Project | Ukraine Support",
+  "SYMBOL": "XUK",
+  "MAX_SUPPLY": 5400,
+  "WEI_COST": 50000000000000000000,
+  "DISPLAY_COST": 50,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Sparkles",
+  "MARKETPLACE_LINK": "https://sparklesnft.com/collection/0x7f1e5a01d452ea0224b05840c78624efd5bcb981",
+  "SHOW_BACKGROUND": true
+}
